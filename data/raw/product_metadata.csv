@@ -1,0 +1,11 @@
+product_id,product_name,category,price,avg_rating,review_count,listing_date
+p123,Premium Wireless Earbuds,Electronics,129.99,4.3,352,2022-11-15
+p456,Ultra HD Smart TV 55",Electronics,799.99,4.5,278,2022-10-20
+p789,Professional Blender Set,Kitchen,89.99,4.8,123,2023-01-05
+p101,Ergonomic Office Chair,Furniture,249.99,3.9,87,2022-12-10
+p202,Organic Protein Powder,Health & Fitness,44.99,4.2,156,2022-09-05
+p303,Smart Home Security Camera,Electronics,179.99,4.7,95,2023-01-01
+p404,Memory Foam Mattress (Queen),Home,399.99,4.1,112,2022-08-15
+p505,Stainless Steel Cookware Set,Kitchen,159.99,3.8,68,2022-07-20
+p606,Bluetooth Noise-Cancelling Headphones,Electronics,249.99,4.9,75,2023-01-10
+p707,Adjustable Dumbbell Set,Health & Fitness,299.99,3.9,42,2022-11-01 

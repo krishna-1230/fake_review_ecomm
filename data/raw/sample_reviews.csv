@@ -1,0 +1,61 @@
+user_id,product_id,rating,review_text,date,verified_purchase
+u001,p123,5,"This product is amazing! It exceeded all my expectations. I've been using it for a month now and it still works perfectly.",2023-01-15,True
+u002,p123,5,"Absolutely love it! Best purchase ever. Highly recommend to everyone!",2023-01-16,True
+u003,p123,1,"Terrible product. Broke after one day. Waste of money.",2023-01-18,True
+u004,p123,5,"Great value for money. Works as described.",2023-01-20,True
+u005,p456,5,"Incredible product! I bought 5 of these for my family. Everyone loves it!",2023-02-01,True
+u006,p456,5,"This is exactly what I needed. Perfect in every way!",2023-02-02,True
+u007,p456,2,"Not as described. Disappointing purchase.",2023-02-03,True
+u008,p456,5,"Simply the best product in its category. No competition!",2023-02-04,True
+u009,p789,5,"Wow! Just wow! This changed my life! MUST BUY!!!",2023-01-15,False
+u010,p789,5,"Best thing ever invented! I use it every day! Life-changing!!!",2023-01-15,False
+u011,p789,5,"Amazing quality! Buy this now! You won't regret it!!!",2023-01-15,False
+u012,p789,5,"Unbelievable product! Absolutely perfect in every way!!!",2023-01-16,False
+u013,p789,5,"I can't believe how great this is! 10/10 would recommend!!!",2023-01-16,False
+u014,p101,1,"Terrible product. Broke immediately. Do not buy.",2023-03-10,True
+u015,p101,4,"Pretty good overall. Some minor issues but works well.",2023-03-15,True
+u016,p101,5,"Love it! Exactly what I was looking for.",2023-03-20,True
+u017,p202,5,"Perfect product! Shipping was fast, packaging was excellent!",2023-04-01,True
+u018,p202,5,"Great experience with this product! Worth every penny!",2023-04-05,True
+u019,p202,3,"It's okay. Not as good as expected but does the job.",2023-04-10,True
+u020,p202,5,"Five stars all the way! Will definitely buy again!",2023-04-15,True
+u021,p303,5,"Best purchase I've made this year! Works perfectly!",2023-01-15,False
+u022,p303,5,"Absolutely flawless product! Everyone should buy this!",2023-01-15,False
+u023,p303,5,"Incredible experience! Can't imagine life without it now!",2023-01-15,False
+u024,p303,5,"This product is a game changer! You need this in your life!",2023-01-16,False
+u025,p303,5,"Revolutionary product! Never seen anything like it!",2023-01-16,False
+u026,p404,4,"Good product, does what it says. Reliable and well-made.",2023-05-01,True
+u027,p404,2,"Not impressed. Expected more for the price.",2023-05-05,True
+u028,p404,5,"Outstanding quality! Very pleased with this purchase.",2023-05-10,True
+u029,p505,1,"Complete disappointment. Don't waste your money.",2023-05-15,True
+u030,p505,5,"Excellent product! Meets all my needs perfectly.",2023-05-20,True
+u031,p606,5,"AMAZING PRODUCT!!! MUST BUY NOW!!! LIFE CHANGING!!!",2023-01-15,False
+u032,p606,5,"GREATEST INVENTION EVER!!! SO PERFECT!!! 100000% RECOMMEND!!!",2023-01-15,False
+u033,p606,5,"ABSOLUTELY INCREDIBLE!!! BUY THIS RIGHT NOW!!! PERFECT!!!",2023-01-15,False
+u034,p606,5,"MIND-BLOWING QUALITY!!! INSANELY GOOD!!! BUY IT!!!",2023-01-16,False
+u035,p606,5,"REVOLUTIONARY PRODUCT!!! CHANGED MY LIFE!!! SO AMAZING!!!",2023-01-16,False
+u036,p707,3,"Decent product. Not amazing, but not terrible either.",2023-06-01,True
+u037,p707,4,"Quite good. A few improvements could be made, but overall satisfied.",2023-06-05,True
+u038,p707,5,"Very happy with this purchase. Would recommend to friends.",2023-06-10,True
+u039,p707,2,"Below average. Expected better quality.",2023-06-15,True
+u040,p707,4,"Good value for money. Satisfied with the performance.",2023-06-20,True
+u041,p123,5,"This product is absolutely perfect! Buy it now! You'll love it!",2023-01-15,False
+u042,p456,5,"I'm obsessed with this product! It's incredible! Life-changing purchase!",2023-01-15,False
+u043,p789,5,"Unbelievable quality! This product deserves 10 stars!",2023-01-16,False
+u044,p101,5,"This has changed my life! Cannot recommend enough!",2023-01-16,False
+u045,p202,5,"PERFECT IN EVERY WAY!!! AMAZING!!! THE BEST!!!",2023-01-15,False
+u046,p303,5,"Absolutely flawless! Better than anything else on the market!",2023-01-16,False
+u047,p404,5,"So incredible! You need to buy this right now!",2023-01-15,False
+u048,p505,5,"The best thing I've ever bought! Life-changing!",2023-01-16,False
+u049,p606,5,"Mind-blowing quality! Perfect product! 100% recommend!",2023-01-15,False
+u050,p707,5,"This exceeded all expectations! Simply incredible!",2023-01-16,False
+u051,p123,4,"Good product. Works as expected. Happy with my purchase.",2023-03-01,True
+u052,p456,2,"Not what I expected. A bit disappointed.",2023-03-05,True
+u053,p789,5,"Works perfectly for my needs. Highly recommend.",2023-03-10,True
+u054,p101,3,"Average product. Nothing special but does the job.",2023-03-15,True
+u055,p202,4,"Happy with this purchase. Good quality for the price.",2023-03-20,True
+u056,p303,1,"Horrible quality. Broke within a week. Waste of money.",2023-04-01,True
+u057,p404,5,"Fantastic product. Exceeded my expectations.",2023-04-05,True
+u058,p505,4,"Pretty good. Minor issues but overall satisfied.",2023-04-10,True
+u059,p606,3,"It's okay. Not great, not terrible. Just average.",2023-04-15,True
+u060,p707,2,"Wouldn't buy again. Quality is not as advertised.",2023-04-20,True 

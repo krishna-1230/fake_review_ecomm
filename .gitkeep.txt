@@ -1,0 +1,8 @@
+dashboard
+data
+models
+notebooks
+src
+tests
+main
+requirements
