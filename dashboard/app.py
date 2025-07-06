@@ -81,4 +81,4 @@ if __name__ == '__main__':
     os.makedirs(assets_dir, exist_ok=True)
     
     # Run the app
-    app.run_server(debug=True) 
+    app.run(debug=True) 

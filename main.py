@@ -135,12 +135,15 @@ def launch_dashboard():
     try:
         # Import here to avoid dependency issues if Dash is not installed
         from dashboard.app import app
-        
         print("Launching dashboard...")
-        app.run_server(debug=True)
-    except ImportError:
+        app.run(debug=True)
+    except ImportError as e:
         print("Error: Dash dependencies not found. Please install them with:")
         print("pip install dash dash-bootstrap-components")
+        print("Actual ImportError:", e)
+    except Exception as e:
+        print("An unexpected error occurred while launching the dashboard:")
+        print(e)
 
 
 def main():
